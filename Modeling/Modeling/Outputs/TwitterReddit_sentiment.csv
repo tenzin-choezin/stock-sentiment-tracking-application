@@ -1,0 +1,11 @@
+,stock,date,twitter_sentiment,reddit_sentiment,total_sentiment
+0,AMC,03/28/2022,Neutral,,Neutral
+1,GME,03/28/2022,Neutral,,Neutral
+2,HOOD,03/28/2022,Neutral,,Neutral
+3,TLRY,03/28/2022,Neutral,,Neutral
+4,TSLA,03/28/2022,Neutral,,Neutral
+0,AMC,03/29/2022,,Neutral,Neutral
+1,GME,03/29/2022,,Neutral,Neutral
+2,HOOD,03/29/2022,,Neutral,Neutral
+3,TLRY,03/29/2022,,Neutral,Neutral
+4,TSLA,03/29/2022,,Negative,Negative

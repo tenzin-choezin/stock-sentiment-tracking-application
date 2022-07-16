@@ -1,0 +1,25 @@
+,Ticker,Mentions,Negative Percent,Positive Percent,Neutral Percent,Overall Sentiment
+0,$GME,774,44.0,13.78,42.22,Negative
+1,$TSLA,2575,38.44,19.78,41.78,Negative
+2,$TWTR,5632,33.11,18.89,48.0,Negative
+3,$AMC,3059,35.78,18.22,46.0,Negative
+4,$SPY,3793,33.56,18.0,48.44,Negative
+5,$HMHC,15,33.33,13.33,53.33,Negative
+6,$DWAC,536,49.78,13.56,36.67,Negative
+7,$AMD,673,30.98,26.94,42.09,Negative
+8,$SST,658,34.22,20.44,45.33,Negative
+9,$AAPL,737,32.0,20.0,48.0,Negative
+10,$AMZN,335,31.46,24.88,43.66,Negative
+11,$NVDA,341,34.62,25.64,39.74,Negative
+12,$TLRY,515,26.81,31.16,42.03,Positive
+13,$NFLX,145,30.11,17.2,52.69,Negative
+14,$QQQ,891,38.44,16.89,44.67,Negative
+15,$PLTR,284,30.95,26.19,42.86,Negative
+16,$FB,479,30.67,24.53,44.8,Negative
+17,$BABA,261,30.08,30.08,39.84,Negative
+18,$VIX,263,31.37,21.96,46.67,Negative
+19,$SOFI,207,28.01,28.72,43.26,Negative
+20,$TEAM,20,11.67,55.0,33.33,Positive
+21,$RBLX,99,24.92,28.62,46.46,Negative
+22,$RSX,16,43.75,16.67,39.58,Negative
+23,$WISH,69,25.12,26.57,48.31,Negative
