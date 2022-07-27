@@ -2,7 +2,7 @@
 
 ## Overview:
 
-### New app developed by students at UC Berkeley provides busy retail investors with timely updates on the latest social media meme stock trends, without ever having to log into Reddit or Twitter
+### New app that provides busy retail investors with timely updates on the latest social media meme stock trends, without ever having to log into Reddit or Twitter
 
 BERKELEY, CA - In January 2021, the price of GameStop stock rose 2000% over 3 weeks. This sudden rise was the result of a short squeeze triggered largely by a community of retail investors on the subreddit r/wallstreetbets. Since then, the “meme stock” movement has exploded across social media, with the 3 most popular stocks each averaging over 3,000 mentions per day on Reddit and Twitter. 
 
