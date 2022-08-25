@@ -1,4 +1,4 @@
-# StockSentimentTracker: All of the Trends, None of the Trolls
+# Stock Tracker: All of the Trends, None of the Trolls
 
 ## Overview:
 
@@ -15,9 +15,9 @@ A number of technical components underpin the app’s functionality, as illustra
 Reception of the app has been very positive so far. 95% of the app’s initial users said they would use the app again, with most praising the quality of information, time saved, and ease of use. One user claimed “This app is exactly what I’m looking for. It gives me all of the information I need with minimal effort.” Don’t believe them? Try the app yourself at the link below.
 
 ## App Preview
-!()[pt1.png]
-!()[pt2.png]
-!()[pt3.png]
-!()[pt4.png]
-!()[pt5.png]
+![](pt1.png)
+![](pt2.png)
+![](pt3.png)
+![](pt4.png)
+![](pt5.png)
 #### To see the app in action, click [HERE](https://stocksentimenttracker.anvil.app/)!
