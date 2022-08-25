@@ -1,4 +1,4 @@
-# Stock Sentiment Tracker: All of the Trends, None of the Trolls
+# Stock Tracker: All of the Trends, None of the Trolls
 
 ## Overview:
 
@@ -20,4 +20,4 @@ Reception of the app has been very positive so far. 95% of the app’s initial u
 ![](pt3.png)
 ![](pt4.png)
 ![](pt5.png)
-#### To see the app in action, click [HERE](https://stocksentimenttracker.anvil.app/)!
+### To see the app in action, click [HERE](https://stocksentimenttracker.anvil.app/)!
