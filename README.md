@@ -1,4 +1,4 @@
-# MemeStockTracker: All of the Trends, None of the Trolls
+# Stock Sentiment Tracker: All of the Trends, None of the Trolls
 
 ## Overview:
 
@@ -13,3 +13,6 @@ While there are a number of existing apps tracking meme stock mentions or sentim
 A number of technical components underpin the app’s functionality, as illustrated below. Twitter, Reddit, and Yahoo Finance APIs are leveraged to source stock menitions and price data. An ensemble of sentiment models then calculates sentiment probabilities. Finally, the information is beautifully displayed in a sleek UI developed in Anvil. Amazon EC2 allows the app data to be refreshed automatically each day.
 
 Reception of the app has been very positive so far. 95% of the app’s initial users said they would use the app again, with most praising the quality of information, time saved, and ease of use. One user claimed “This app is exactly what I’m looking for. It gives me all of the information I need with minimal effort.” Don’t believe them? Try the app yourself at the link below.
+
+## App Preview
+!()[homepage.gif]
