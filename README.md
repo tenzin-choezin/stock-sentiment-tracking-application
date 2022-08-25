@@ -1,4 +1,4 @@
-# Stock Tracker: All of the Trends, None of the Trolls
+# Stock Sentiment Tracker: All of the Trends, None of the Trolls
 
 ## Overview:
 
